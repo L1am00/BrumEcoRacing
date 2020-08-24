@@ -89,4 +89,13 @@
         "imageName": "Food",
         "description": "Travel round Selly Oak and eat one portion of chips from as many take aways as you can."
     },
+    {
+        "name": "App Development",
+        "category": "Programming",
+        "teamLeader": "Liam Mackenzie",
+        "id": 1011,
+        "isMyProject": true,
+        "imageName": "Programming",
+        "description": "Update the app to make it even better, and to save Liam the effort."
+    },
 ]
