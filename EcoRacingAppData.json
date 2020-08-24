@@ -98,4 +98,14 @@
         "imageName": "Programming",
         "description": "Update the app to make it even better, and to save Liam the effort."
     },
+    {
+        "name": "Wheel Covers",
+        "category": "Chassis",
+        "teamLeader": "Liam Mackenzie",
+        "id": 1012,
+        "isMyProject": true,
+        "imageName": "Aero",
+        "description": "Produce new areo cover for the wheels so they are less bad ."
+    },
+
 ]
