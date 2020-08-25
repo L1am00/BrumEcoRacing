@@ -4,7 +4,7 @@
         "category": "Electronics",
         "teamLeader": "Joe Norris",
         "id": 1001,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Electronics",
         "description": "The telemetry system in the car will pull data from a variety of sensors to get data on speed, acceleration, temperature and battery voltage. It will then be processed by an arduino for sending back to the team in the paddock."
     },
@@ -13,7 +13,7 @@
         "category": "Programming",
         "teamLeader": "Callum Kindred",
         "id": 1002,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Programming",
         "description": "The ground control program will be capable of recieving the telemetry from the car and displaying it in an easy to use user interface for the team in the paddock. Will also include controls to change settings in the car among any other useful features we can think of. Making toast anyone?"
     },
@@ -22,7 +22,7 @@
         "category": "Chassis",
         "teamLeader": "Dan Austin",
         "id": 1003,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Aero",
         "description": "The new lids for the car are one sheet of carbon fibre thicker to improve rigidity. They need new windows cut, wing mirrors added, and an attachment mechanism to the rest of the body."
     },
@@ -31,7 +31,7 @@
         "category": "Chassis",
         "teamLeader": "Dan Austin",
         "id": 1004,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Paint",
         "description": "Make the car look fucking cool."
     },
@@ -40,7 +40,7 @@
         "category": "Programming",
         "teamLeader": "Callum Kindred",
         "id": 1005,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Programming",
         "description": "Through machine learning we can build a program to predict the most efficient fuel/air ratio ahead of time to improve the overall efficiency of our engine."
     },
@@ -49,7 +49,7 @@
         "category": "Engine",
         "teamLeader": "Liam Mackenzie",
         "id": 1006,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Engine",
         "description": "Using a dynometer we can create a proper look-up table for our engine so that it runs correctly."
     },
@@ -58,7 +58,7 @@
         "category": "Engine",
         "teamLeader": "Liam Mackenzie",
         "id": 1007,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Engine",
         "description": "Yup, this is pretty important."
     },
@@ -67,7 +67,7 @@
         "category": "Admin",
         "teamLeader": "Liam Mackenzie",
         "id": 1008,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Finance",
         "description": "Get funding in anyway possible. Apply through the alumni impact scheme or student culture fund, rob banks, bitcoin scams or stealing underpants."
     },
@@ -76,7 +76,7 @@
         "category": "Food",
         "teamLeader": "Liam Mackenzie",
         "id": 1009,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Food",
         "description": "Eat as much cheese as you can in one sitting, current record is 900g."
     },
@@ -85,7 +85,7 @@
         "category": "Food",
         "teamLeader": "Liam Mackenzie",
         "id": 1010,
-        "isMyProject": true,
+        "isNewProject": false,
         "imageName": "Food",
         "description": "Travel round Selly Oak and eat one portion of chips from as many take aways as you can."
     },
@@ -94,7 +94,7 @@
         "category": "Programming",
         "teamLeader": "Liam Mackenzie",
         "id": 1011,
-        "isMyProject": true,
+        "isNewProject": true,
         "imageName": "Programming",
         "description": "Update the app to make it even better, and to save Liam the effort."
     },
@@ -103,7 +103,7 @@
         "category": "Chassis",
         "teamLeader": "Liam Mackenzie",
         "id": 1012,
-        "isMyProject": true,
+        "isNewProject": true,
         "imageName": "Aero",
         "description": "Produce new areo cover for the wheels so they are less bad ."
     },
