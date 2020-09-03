@@ -43,7 +43,7 @@
         "coordinates": {
             "latitude": 52.451329,
             "longitude": -1.930515
-        }
+        },
         "imageLink": "Electronics",
         "description": "Welcome to the Brum Eco Racing Electronics Team! Learn more about our onboard vehicle electronics; from telemetry to battery management, there's so much to do!"
     },
@@ -59,7 +59,7 @@
         "coordinates": {
             "latitude": 52.451329,
             "longitude": -1.930515
-        }
+        },
         "imageLink": "Electronics",
         "description": "Welcome to the Brum Eco Racing Programming Team! Learn about how you can get involved this year!"
     },
@@ -75,7 +75,7 @@
         "coordinates": {
             "latitude": 52.451329,
             "longitude": -1.930515
-        }
+        },
         "imageLink": "Electronics",
         "description": "Welcome to the Brum Eco Racing Chassis Team! Learn about how you can get involved this year!"
     }
