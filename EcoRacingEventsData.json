@@ -1,11 +1,11 @@
 [
     {
-        "name": "Test 5",
-        "day": 9,
+        "name": "Test 6",
+        "day": 10,
         "month": 9,
         "year": 2020,
-        "hour": 20,
-        "minute": 0,
+        "hour": 13,
+        "minute": 45,
         "id": 1001,
         "location": "Online",
         "coordinates": {
@@ -16,12 +16,12 @@
         "description": "Welcome to Brum Eco Racing! This online zoom call will serve as an introduction to the teeam, you will learn who we are, what we do, and how you can get involved. Stay until the end for an interactive Q&A!"
     },
     {
-        "name": "Test 6",
-        "day": 9,
+        "name": "Test 7",
+        "day": 11,
         "month": 9,
         "year": 2020,
-        "hour": 19,
-        "minute": 40,
+        "hour": 12,
+        "minute": 444,
         "id": 1002,
         "location": "Online",
         "coordinates": {
