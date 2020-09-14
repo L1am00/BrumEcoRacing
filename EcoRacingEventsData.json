@@ -1,115 +1,50 @@
 [
     {
-        "name": "Test 6",
-        "day": 10,
-        "month": 9,
-        "year": 2020,
-        "hour": 13,
-        "minute": 51,
-        "id": 1001,
-        "location": "Online",
-        "coordinates": {
-            "latitude": 52.451329,
-            "longitude": -1.930515
-        },
-        "imageLink": "GeneralEvent",
-        "description": "Welcome to Brum Eco Racing! This online zoom call will serve as an introduction to the teeam, you will learn who we are, what we do, and how you can get involved. Stay until the end for an interactive Q&A!"
-    },
-    {
-        "name": "Test 7",
-        "day": 11,
-        "month": 9,
-        "year": 2020,
-        "hour": 12,
-        "minute": 52,
-        "id": 1002,
-        "location": "Online",
-        "coordinates": {
-            "latitude": 52.451329,
-            "longitude": -1.930515
-        },
-        "imageLink": "GeneralEvent",
-        "description": "Welcome to Brum Eco Racing! This online zoom call will serve as an introduction to the teeam, you will learn who we are, what we do, and how you can get involved. Stay until the end for an interactive Q&A!"
-    },
-    {
         "name": "Welcome to Brum Eco Racing",
+        "day": 22,
+        "month": 9,
+        "year": 2020,
+        "hour": 15,
+        "minute": 0,
+        "id": 1,
+        "location": "Facebook Live",
+        "coordinates": {
+            "latitude": 83.468463,
+            "longitude": -30.006526
+        },
+        "imageLink": "GeneralEvent",
+        "description": "Welcome to Brum Eco Racing! This online live stream will serve as an introduction to the team, you will learn who we are, what we do, and how you can get involved. Stay until the end for an interactive Q&A!"
+    },
+    {
+        "name": "Autonomous Vehicles",
+        "day": 24,
+        "month": 9,
+        "year": 2020,
+        "hour": 15,
+        "minute": 0,
+        "id": 2,
+        "location": "Facebook Live",
+        "coordinates": {
+            "latitude": 83.468463,
+            "longitude": -30.006526
+        },
+        "imageLink": "ProgrammingEvent",
+        "description": "Welcome to Brum Eco Racing! This online live stream will serve as an introduction to the brand new Shell Eco Marathon Autonomous Vehicle Programming Challenge, you will learn who we are, what we do, and how you can get involved. Stay until the end for an interactive Q&A!"
+    },
+    {
+        "name": "Test Event",
         "day": 22,
         "month": 9,
         "year": 20,
         "hour": 16,
         "minute": 0,
-        "id": 1003,
+        "id": 3,
         "location": "Online",
         "coordinates": {
-            "latitude": 52.451329,
-            "longitude": -1.930515
+            "latitude": 83.468463,
+            "longitude": -30.006526
         },
         "imageLink": "GeneralEvent",
-        "description": "Welcome to Brum Eco Racing! This online zoom call will serve as an introduction to the teeam, you will learn who we are, what we do, and how you can get involved. Stay until the end for an interactive Q&A!"
-    },
-    {
-        "name": "Engine Introduction",
-        "day": 24,
-        "month": 9,
-        "year": 20,
-        "hour": 13,
-        "minute": 0,
-        "id": 1004,
-        "location": "Green Heart",
-        "coordinates": {
-            "latitude": 52.451329,
-            "longitude": -1.930515
-        },
-        "imageLink": "EngineEvent",
-        "description": "Welcome to the Brum Eco Racing Engine Team! Learn more about our targets for fuel efficiency and how you can get involved in squeezing the extra milage from our engine."
-    },
-    {
-        "name": "Electronics Introduction",
-        "day": 24,
-        "month": 9,
-        "year": 20,
-        "hour": 15,
-        "minute": 0,
-        "id": 1005,
-        "location": "Green Heart",
-        "coordinates": {
-            "latitude": 52.451329,
-            "longitude": -1.930515
-        },
-        "imageLink": "ElectronicsEvent",
-        "description": "Welcome to the Brum Eco Racing Electronics Team! Learn more about our onboard vehicle electronics; from telemetry to battery management, there's so much to do!"
-    },
-    {
-        "name": "Programming Introduction",
-        "day": 25,
-        "month": 9,
-        "year": 20,
-        "hour": 13,
-        "minute": 0,
-        "id": 1006,
-        "location": "Green Heart",
-        "coordinates": {
-            "latitude": 52.451329,
-            "longitude": -1.930515
-        },
-        "imageLink": "ProgrammingEvent",
-        "description": "Welcome to the Brum Eco Racing Programming Team! Learn about how you can get involved this year!"
-    },
-    {
-        "name": "Chassis Introduction",
-        "day": 25,
-        "month": 9,
-        "year": 20,
-        "hour": 15,
-        "minute": 0,
-        "id": 1007,
-        "location": "Online",
-        "coordinates": {
-            "latitude": 52.451329,
-            "longitude": -1.930515
-        },
-        "imageLink": "ChassisEvent",
-        "description": "Welcome to the Brum Eco Racing Chassis Team! Learn about how you can get involved this year!"
+        "description": "Testing, Testing 1,2 3! Oh yeah baby, I hope this works"
     }
-
 ]
